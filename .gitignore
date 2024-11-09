@@ -1,3 +1,6 @@
+# Prevent my dumb ass macbook from adding unwanted files
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
